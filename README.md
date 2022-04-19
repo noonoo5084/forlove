@@ -20,7 +20,7 @@ Ultraviolet works by intercepting HTTP requests with a service worker script tha
 - Frequent updates to improve site support or fix security issues
 
 ## Supported Sites
-- [Youtube](https://www.youtube.com)
+- [yt](https://www.yt.com)
 - [CAPTCHA/hCAPTCHA](https://www.captcha.net)
 - [Spotify](https://spotify.com)
 - [Discord](https://discord.com)
